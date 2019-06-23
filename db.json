@@ -41,7 +41,7 @@
       "classId": null,
       "professorId": null,
       "id": "1",
-      "postTitle": "POST 1 TITLE",
+      "postTitle": "POST 1 TITLE NEW",
       "postContent": "POST 1 BODY"
     },
     {
@@ -49,7 +49,7 @@
       "classId": "1",
       "professorId": null,
       "id": "2",
-      "postTitle": "POST 2 TITLE",
+      "postTitle": "POST 2 TITLE NEW",
       "postContent": "POST 2 BODY"
     },
     {
@@ -57,7 +57,7 @@
       "classId": "1",
       "professorId": "1",
       "id": "3",
-      "postTitle": "POST 3 TITLE",
+      "postTitle": "POST 3 TITLE NEW",
       "postContent": "POST 3 BODY"
     },
     {
