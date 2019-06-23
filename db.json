@@ -96,9 +96,5 @@
       "id": "2",
       "comment_content": "COMMENT 1"
     }
-  ],
-  "users": {
-    "id": "1",
-    "email": "test@test.com"
-  }
+  ]
 }
