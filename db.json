@@ -2,99 +2,99 @@
   "schools": [
     {
       "id": "1",
-      "school_name": "SCHOOL 1"
+      "schoolName": "SCHOOL 1"
     },
     {
       "id": "2",
-      "school_name": "SCHOOL 2"
+      "schoolName": "SCHOOL 2"
     }
   ],
   "classes": [
     {
-      "school_id": "1",
+      "schoolId": "1",
       "id": "1",
-      "class_name": "CLASS 1"
+      "className": "CLASS 1"
     },
     {
-      "school_id": "2",
+      "schoolId": "2",
       "id": "2",
-      "class_name": "CLASS 2"
+      "className": "CLASS 2"
     }
   ],
   "professors": [
     {
-      "school_id": "1",
-      "class_id": "1",
+      "schoolId": "1",
+      "classId": "1",
       "id": "1",
-      "professor_name": "PROF 1"
+      "professorName": "PROF 1"
     },
     {
-      "school_id": "2",
-      "class_id": "2",
+      "schoolId": "2",
+      "classId": "2",
       "id": "2",
-      "professor_name": "PROF 2"
+      "professorName": "PROF 2"
     }
   ],
   "posts": [
     {
-      "school_id": "1",
-      "class_id": null,
-      "professor_id": null,
+      "schoolId": "1",
+      "classId": null,
+      "professorId": null,
       "id": "1",
-      "post_title": "POST 1 TITLE",
-      "post_body": "POST 1 BODY"
+      "postTitle": "POST 1 TITLE",
+      "postContent": "POST 1 BODY"
     },
     {
-      "school_id": "1",
-      "class_id": "1",
-      "professor_id": null,
+      "schoolId": "1",
+      "classId": "1",
+      "professorId": null,
       "id": "2",
-      "post_title": "POST 2 TITLE",
-      "post_body": "POST 2 BODY"
+      "postTitle": "POST 2 TITLE",
+      "postContent": "POST 2 BODY"
     },
     {
-      "school_id": "1",
-      "class_id": "1",
-      "professor_id": "1",
+      "schoolId": "1",
+      "classId": "1",
+      "professorId": "1",
       "id": "3",
-      "post_title": "POST 3 TITLE",
-      "post_body": "POST 3 BODY"
+      "postTitle": "POST 3 TITLE",
+      "postContent": "POST 3 BODY"
     },
     {
-      "school_id": "2",
-      "class_id": null,
-      "professor_id": null,
+      "schoolId": "2",
+      "classId": null,
+      "professorId": null,
       "id": "4",
-      "post_title": "POST 4 TITLE",
-      "post_body": "POST 4 BODY"
+      "postTitle": "POST 4 TITLE",
+      "postContent": "POST 4 BODY"
     },
     {
-      "school_id": "2",
-      "class_id": "2",
-      "professor_id": null,
+      "schoolId": "2",
+      "classId": "2",
+      "professorId": null,
       "id": "5",
-      "post_title": "POST 5 TITLE",
-      "post_body": "POST 5 BODY"
+      "postTitle": "POST 5 TITLE",
+      "postContent": "POST 5 BODY"
     },
     {
-      "school_id": "2",
-      "class_id": "2",
-      "professor_id": "2",
+      "schoolId": "2",
+      "classId": "2",
+      "professorId": "2",
       "id": "6",
-      "post_title": "POST 6 TITLE",
-      "post_body": "POST 6 BODY"
+      "postTitle": "POST 6 TITLE",
+      "postContent": "POST 6 BODY"
     }
   ],
   "comments": [
     {
-      "post_id": "1",
+      "postId": "1",
       "id": "1",
-      "comment_content": "COMMENT 1"
+      "commentContent": "COMMENT 1"
     },
     {
-      "post_id": "2",
+      "postId": "2",
       "id": "2",
-      "comment_content": "COMMENT 1"
+      "commentContent": "COMMENT 1"
     }
   ]
 }
